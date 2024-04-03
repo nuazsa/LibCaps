@@ -1,0 +1,35 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Azis\Documents\NetBeansProjects\Perpustakaan\dist\perpustakaan.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	perpustakaan.exe
+Working dir:	C:\Users\Azis\Documents\NetBeansProjects\Perpustakaan\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-19
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Version string: 1.019.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Azis\Documents\NetBeansProjects\Perpustakaan\dist\perpustakaan.exe"
+Args length:	82/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Azis\Documents\NetBeansProjects\Perpustakaan\dist\perpustakaan.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	perpustakaan.exe
+Error:		Instance already exists.
+
+
+Version:	3.50
+CmdLine:	C:\Users\Azis\Documents\NetBeansProjects\Perpustakaan\dist\perpustakaan.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	perpustakaan.exe
+Error:		Instance already exists.

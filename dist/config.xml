@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Azis\Documents\NetBeansProjects\Liblary App\bin\Perpustakaan.jar</jar>
+  <outfile>C:\Users\Azis\Documents\NetBeansProjects\Liblary App\bin\Library.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Azis\Downloads\bookshelf_icon-icons.com_54414.ico</icon>
+  <singleInstance>
+    <mutexName>Library.exe</mutexName>
+    <windowTitle>Library</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>jre-1.8</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
